@@ -38,3 +38,36 @@ Unidad 6:
 y despues derecho laboral
 
 no vemos derecho penal
+
+----------------------------------------------
+
+Apr 1
+
+norma: regla de conducta, su incumplimiento lleva a una sanción (...).
+
+tipos de normas
+  1. juridica (ir a la carcel, tiene peso legal) <---- La unica que nos importa en la materia.
+  2. social (condena social).
+  3. moral (sentimiento de pesadez, propia del individuo).
+  4. religiosa (ir al infierno).
+tienen en común que están en la misma sociedad pera pueden impactar de diferente forma. Diferencia crucial: coersivilidad.
+
+coersivilidad: potestad de un ente superior de imponer una sancion de cumplimiendo obligatoiro frente al incumplimiento de una norma.
+
+periodo ventana: donde se rechaza un cambio juridico que contradice una norma religiosa. ej. matrimonio igualitario.
+
+Ordenamiento juridico legal vigente: conjunto de normas vigentes que regula nuestra sociedad.
+|
+|---> Orden público: limita la autonomia de la voluntad. dos parametros: tiempo y espacio.(cambia con el tiempo y el país). implícito o explicito en las leyes.
+      |
+      --- > Ejemplos:  trabajo ilegal, no es válido cualquier acuerdo privado.
+                       matrimonio de a tres.
+
+
+Fuentes del derecho: génesis de las normas juridicas. (ejemplos)
+1. Costumbre (leyes comerciales).
+2. Doctrina: opinión de personas expertas en el tema (un especialista en medícina).
+3. Jurisprudencia: fallos previos de la justicia. (5g de marihuana es consumo personal en un fallo, entonces un legislador agrega modifica la ley para agregarlo)
+4. Constitución nacional.
+5. Tratados internacionales.
+6. Leyes internacionales.
