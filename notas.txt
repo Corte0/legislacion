@@ -71,3 +71,36 @@ Fuentes del derecho: génesis de las normas juridicas. (ejemplos)
 4. Constitución nacional.
 5. Tratados internacionales.
 6. Leyes internacionales.
+
+------------------------------------------------
+
+apr 8
+
+
+rmas del derecho derecho
+  publico 
+    administrativo
+    penal
+  privado
+  social
+
+
+en que poosicoin esta el estado en estas ramas del derecho?
+  publico (mas presente)
+    administrativo ()
+    penal (fiscales)
+  privado (observa, actua frente a pedidos, por mas que conozca un problema no interviene sin que se haga una demanda)
+    civil
+    comercial
+  social(tiene una insidencia en el futuro de la sociedad. Le interesa que ciertos aspectos estan resguardados segun una normativa conveniente. salud, ecologico ...)
+
+
+Constitucion partes
+  preambulo (derechos fundamentales. principios generales del estado nacional) simientos
+  dogmatica (derechos escenciales, vida, propiedad, justo proceso)
+  organica (como se dividen los poderes del estado. ejecutuvo, legislativo y judicial)
+      Ejecutivo, (unipersonal) administra. Presidente, gobernador, intendente. Ministerios y secretarias.
+      Legislativo, Nacional:Diputados(pueblo) y senadores(provincias). Provincial:Unicameral. Municipal:Consejo deliverante
+      Judicial. Asegura el cumplimiento de leyes. Nacional:Corte suprema Provincial:Trubunal superior de justicia. (maome)->Municipal:Tribunal de familia
+                Camaras (?), jueces de primera instancia
+
