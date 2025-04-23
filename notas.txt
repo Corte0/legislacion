@@ -138,4 +138,67 @@ Dos tipos:
 
   Activa: Pastilla o inyección para que las funciones sistemicas terminen
 
-2.
+apr 22
+
+2. Ausencia con presunción de fallecimiento
+
+Se presume muerto, pero no se encuentra el cuerpo
+
+Ordinaria: Aquella en la cual no se sabe nada de la persona durante 3 años
+  Problemas:
+    Que pasa con los herederos
+    parte matrimonial
+    Si estaba casado
+    Con los hijos
+
+Extraordinario: 
+
+  1. Genérico. Se sabe a ciencia cierta que la persona estuvo en algun evento catastrofico, se reduce a 2 años
+  2. Específico. Estuvo en alguna situacion que es mas certero que la persona fallecío, por ejemplo un accidente de avión. Se reduce a 6 meses
+
+Se analiza en este caso la gravedad de la catástrofe. a menor posibilidad de que la persona este con vida, se reduce el tiempo. Se analiza jurisprudencia
+
+
+Derechos a cubrir: patrimoniales y extrapatrimoniales.
+
+Patrimoniales:
+  Periodo de preanotación
+
+  Despues de pasado el tiempo de ausencia correspondiente se inicia el traminte de herencia
+  Hay un tiempo extra en los derechos patrimoniales(Periodo de preanotacion), de 5 años en los que los
+  herederos solo pueden administrar los bienes del ausente.
+  Si aparece dentro de este periodo, el heredero funciona como un simple administrador y debe devolver los bienes.
+
+
+  Que pasa si aparece despues de los 5 años??
+
+  Se le tienen que devolver los bienes que estaban a nombre de la persona que apareció o de un heredero directo. No puede haber simulacion.
+
+  Herencia vacante: No hay ningun tipo de heredero. No se sabe si hay o no hijos.(mas que nada del pasado). Cualquiera puede reclamar los bienes. van mitad
+  al estado y mitad a quien reclama.
+
+Extrapatrimoniales:
+  Aca NO hay periodo de preanotacion.
+  Patria potestad: El poder que tiene un progenitor sobre su hijo.
+    En el momento del desaparecimiento, el otro progenitor tiene toda la patria potestad.
+    Si aparece, re adquiere su derecho.
+
+  matrimonio: No soy viudo, no me puedo divorciar, pero la ley me permite contraer nuevas nupcias(casarme nuevamente).
+    Prevalece la ultima expresión de voluntad. Por lo cual prevalece el matrimonio actual.
+
+
+---------------------- Los atributos de la persona
+
+son la estructura o esqueleto sobre la cual el ordenamiento juridico vigente asienta los derechos y obligaciones de cada persona.
+
+1. Nmbre
+2. estado
+3. capacidad (grado de aptitud para tener derechos y obligaciones)
+4. domicilio
+5. patrimonio
+
+Caracteristicas
+Son necesarios. No existe persona persona sin estas caracteristicas.
+Unicos. No podemos tener mas de un domicilio, mas de un nombre, dos patrimonios ....
+Inalienable.Fuera del comercio.
+Inprescriptible. No se pierde por paso del tiempo
