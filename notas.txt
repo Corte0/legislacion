@@ -189,7 +189,7 @@ Extrapatrimoniales:
 
 ---------------------- Los atributos de la persona
 
-son la estructura o esqueleto sobre la cual el ordenamiento juridico vigente asienta los derechos y obligaciones de cada persona.
+son la estructura o esqueleto sobre la cual el ordenamiento juridico vigente asienta faculdades, derechos y obligaciones de cada persona.
 
 1. Nmbre
 2. estado
@@ -202,3 +202,46 @@ Son necesarios. No existe persona persona sin estas caracteristicas.
 Unicos. No podemos tener mas de un domicilio, mas de un nombre, dos patrimonios ....
 Inalienable.Fuera del comercio.
 Inprescriptible. No se pierde por paso del tiempo
+
+
+------------------------------------------------------------------------------------------------
+May 13
+
+Trabajo
+traer noticia proxima clase noticia sobre juicio laboral
+analisis critico de un caso, ver como es la legislacion actual, y si nos parece justa.
+
+Atributos de la persona
+
+Domicilio:
+(general) Donde efectivamente vivimos y tenemos nuestro asiento principal.
+  ->Legal: ante circunstancias legales la ley establece el atriburo.(menores de edad, tienen el domicilio de los padres. Sacerdotes,
+      personal de fuerza aerea, presos)
+  ->Real: Aquel en le cual voluntariamente una persona --mayor de edad-- elige residir
+
+(especial) No es un atributo de la persona. Se puede tenerlo o no. (tengo un domicilio de trabajo, el domicilio del abogado en caso de un juicio)
+  Para situaciones particulares, como comercio o situaciones juridicas
+
+Domicilio de origen(o histórico): Domicilio de los padres al momento del nacimiento.
+
+
+
+Estado:
+ ->Lugar que ocupa una persona frente a un pais, Nacional o extranjero.
+    Da derechos y obligaciones (tributacion, voto)
+ ->Situacion en la que se encuentra una persona en relacion a su familia (padre, madre, hijo, primo, etc)
+    Determina derechos y obligaciones (matrimonio, hijos, herencia)
+
+
+Patrimonio:
+  Conjunto de bienes de caracter pecuniario que integran el acerbo(patrimonio)
+  Compuesto de activos y pasivos, el resultado es el patrimonio neto, puede ser negativo, neutro o positivo.
+    (no importa que se declara o que no)
+
+
+Capacidad:
+  (general)
+  toda aptitud o grado de aptitud que tiene una persona para --contraer-- o --ejercer-- derechos y obligaciones
+  ->De derecho: capacidad de contraer derechos y obligaciones, nunca puede no tener, pero si se puede restringir (ES EL ATRIBUTO DE LA PERSONA)
+  ->De hecho: capacidad de ejercer, puede no existir, el ordenamiento juridico la suple con una herramienta, tutor o  (NO ES UN ATRIBUTO DE LA PERSONA)
+
