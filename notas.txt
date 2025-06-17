@@ -245,3 +245,124 @@ Capacidad:
   ->De derecho: capacidad de contraer derechos y obligaciones, nunca puede no tener, pero si se puede restringir (ES EL ATRIBUTO DE LA PERSONA)
   ->De hecho: capacidad de ejercer, puede no existir, el ordenamiento juridico la suple con una herramienta, tutor o  (NO ES UN ATRIBUTO DE LA PERSONA)
 
+------------------------------------------------------------------------------------------------
+jun 3
+
+Matrimonio Civil
+
+Evolucion historica (civil):
+  ->Caracter religioso (para toda la vida), imposible disolver el vinculo
+  ->Evolucionó la composicion, ya no es necesario que sean personas de distinto sexo.
+  ->Evolucionó el divorcio,
+    ->Primero se permitía si habia un culpable(causas: infidelidad, abandono del hogar, maltrato etc.) La división
+      dependia de la culpabilidad(que porcentaje de culpa tenia cada uno).
+      Problemática: Los divorcios demoraban mucho tiempo si no habia acuerdo.
+    ->Hoy no se necesita el consentimiento de la otra parte. Se eliminó el divorcio con causa.
+
+      Divición de bienes:
+      Hay dos regimenes
+
+      Regimen de comunidad de bienes.
+      Cuatro bloques de patrimonio (concurrencia de bienes)
+        ->Patrimonio propio de un conyuge
+          ->Adquiridos anterior al matrimonio
+          ->Adquiridos por donacion
+          ->Adquiridos por herencia
+        ->Patrimonio ganancial de un conyuge
+          ->Todos aquellos adquiridos dentro del matrimonio.
+        ->Patrimonio propio del otro conyuge
+        ->Patrimonio ganancial del otro conyuge
+
+      Los bienes propios de cada conyuge no se divide, no asi el producido por esos bienes(ganancial). ej Ganancia del alquiler de un dpto.
+
+      Regimen de division de bienes.
+      Se deja expresado al momento de casarse. Cada uno tiene sus cosas.No hay división de bienes.
+
+
+
+Da el amparo derecho y obligaciones juridicas.
+Es la unión de dos personas (sin importar sexo).
+
+------------------------------------------------------------------------------------------------
+jun 17
+Sucesion
+
+Que pasa con los vienes de una persona cuando fallece?
+A nivel mundial, existen dos sistemas
+Vitalicio, al morir la persona entrega sus bienes al estado
+Perpetuo, la persona puede elegir que pasa con sus bienes
+
+En argentina:
+Sistema mixto, el estado esteblece herederos forsozos y la persona puede elegir favorecer a ciertas personas.
+
+Testamentos
+
+Holografo, la persona escribe firma y fecha de puño y letra su testamento.
+  ventajas:
+    Barato
+    Facil de modificar
+  desventajas:
+    Es posible que no se cumpla.
+
+Tesimonio público con un escribano.
+  ventajas:
+    Es seguro que se va a aplicar
+  desventajas:
+    Conlleva gastos
+    Es complicado de modificar
+
+Herencia:
+Composición
+  Porcion disponible, parte de la porcion del causante que puede disponer a su voluntad o dejar a cualquier persona
+  Porcin legítima, parte del patrimonio del causante que la ley dispone que debe quedar para los herederos forsozos, en partes iguales.
+
+Herederos forsozos:
+  Ascendiente
+  Descendiente
+  Conyuge(no concuvino)
+
+Que ocurre cuando conviven distintos herederos forsozos de distintos grados?
+Si existen todos, los hijos excluyen a los padres.
+El conyuge concurre haya o hijos o ascendientes. Comparte con ascendientes O descendientes con igual proporcion, sobre bienes propios(personales del causante).
+Tiene "asegurada" el 50% de la parte ganancial(bienes conyugales).
+
+Porcion legítima(Solo si hay testamento, sino es el 100%):
+Solo conyuge: 50%
+Solo ascendientes: 50%
+solo descendientes: 2/3 partes
+
+Siempre se favorece la mayor parte.
+
+Si no hay heredes forsozos, puede reclamarlo algun pariente sanguineo, el mas cercano excluye al resto.
+
+Hijastros
+Heredan si hay una adopción legal.
+
+Herencia vacante:
+No existe heredero alguno consanguineo, un tercero puede denunciar, se queda 50%, y el resto a estado.
+
+-------------------------------------------------------------------------------------------------------
+Unidad 3, Actos y Hechos Jurįdicos
+
+tienen relación Genero Especie
+
+Hecho Juridico: Gęnero, accion o acontecimiento que(de manera directa o indirecta) produce, modifica o estingue derechos y obligaciones.
+
+ Naturales:No traen concecuencia jurįdica, nadie responde por ellos a no ser que haya un contrato o acto jurídico que lo indique, ejemplo seguro de granizo
+
+ Humanos:
+  Se clasifican segun: Discernimiento, intencion, libertad. Si existen los tres -> voluntario, si no existe alguno -> involuntario
+
+    ->Voluntarios
+      ->Legales(Licitos)
+        ->Acto jurįdico: De manera directa modifica produce o estingue un derecho u obligación (especie)
+        ->Gestion de negocios: precio al actu jurídico pero no hay obligaciones (presupuestos)
+      ->Ilegales(Ilicitos)
+          ->Dolo, accion con la intención de deñar
+          ->Culpa, No quiere causar el daño pero lo causa, impericia, negligencia, imprudencia. (menos grave que el dolo)(Buena fe convictiva)
+    ->Involuntarios: No tiene consecuencias jurídicas, por ejemplo, hago algo bajo extorsión
+
+Buena fe convictiva, se debe poder probar que se actua de buena fé, por ejemplo, se tiene un plano erroneo que indicaba algo.
+
+
+-------------------------------------------------------------HASTA ACA EL PRIMER PARCIAL------------------------------------------------------------------
